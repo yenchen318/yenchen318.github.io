@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "關於我"
+    url: /about/
+  - title: "學習筆記"
+    url: /categories/
+  - title: "小工具"
+    url: /demo/
+  - title: "夢想清單"
+    url: /dreams/
+  - title: "搜尋"
+    url: /search/
