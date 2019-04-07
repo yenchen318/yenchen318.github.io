@@ -5,6 +5,9 @@ date: 2019-04-05 14:02:37
 excerpt: test
 categories:
 - study
+tags:
+- third
+- hi
 ---
 
 ## Hi!
